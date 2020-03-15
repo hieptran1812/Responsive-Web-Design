@@ -1,2 +1,3 @@
 # Freecodecamp_Responsive Web Design
-A course in Freecodecamp
+
+Solutions for Responsive Web Design course in Freecodecamp
